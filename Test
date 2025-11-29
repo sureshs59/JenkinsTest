@@ -20,3 +20,5 @@ Added Webhook for specific project under Webhooks in settings in GitHub.
 Add url like this 
 http://172.17.80.1:8080/github-webhook
 
+removed login details in config.xml
+
