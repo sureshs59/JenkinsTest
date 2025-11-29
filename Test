@@ -1,0 +1,13 @@
+This is testin file in this repository:
+After installing Jenkins then we need to execute the below command to execute:
+
+c:\<current directory>\Java -jar jenkins.war
+it creates bleow password once its shows start up 
+
+031e0b63f7554c4796f32ccdd44c69e6
+it runs in your jenkins in localhost with 8080 port number
+##########################################################
+http://localshot:8080
+##########################################################
+for Jenkins , we need admin user name and passwords as below created
+
