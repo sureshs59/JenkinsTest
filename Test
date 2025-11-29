@@ -11,3 +11,6 @@ http://localshot:8080
 ##########################################################
 for Jenkins , we need admin user name and passwords as below created
 
+use cronjob values for periodically..
+refer this below web site
+crontab.guru
